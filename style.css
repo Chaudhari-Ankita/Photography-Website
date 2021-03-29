@@ -1,0 +1,182 @@
+#main-header{
+  color:#2b2a2b;
+  font-style: italic;
+  text-align: center;
+  word-spacing: 10px;
+  font-size: 100%;
+  padding-top: 0;
+  height:350px;
+  width: 100%;
+  opacity: 1;
+}
+
+<!-- container holding imgage and heading -->
+.imgcontainer {
+  text-align: center;
+  color: white;
+}
+
+h1 {
+  position: absolute;
+  top: 22%;
+  left: 50%;
+  bottom: 50%;
+  transform: translate(-50%, -50%);
+}
+h1:hover{
+   color:white;
+}
+
+.box2{
+  position: absolute;
+  font-size: 10vm;
+  top: 35%;
+  left: 48%;
+  bottom: 60%;
+  transform: translate(-50%, -50%);
+}
+.box2:hover{
+  font-size: 18px;
+  color:white;
+}
+.headbg {
+ opacity: 0.6;
+ height:400px;
+ width:100%;
+}
+
+#topnav{
+  background-color: #7d7f80;
+  height: auto;
+  width: auto;
+  padding-right: 0%;
+  margin-right: 0%;
+  border-right: 0%;
+  overflow: hidden;
+}
+#topnav a{
+  display:block;
+  text-decoration: solid underline;
+  float: left;
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 23px;
+}
+#topnav a:hover{
+  background-color: black;
+}
+
+#main-footer{
+  text-align: center;
+  background-color: #b9babd;
+  margin-top: 100px;
+}
+
+h2{
+  font-family: Lucida Handwriting;
+  color: white;
+  background-color: #858483;
+  height: auto;
+  width:100% ;
+  padding-top: 1em;
+  padding-bottom:0em;
+}
+
+ .container{
+  border: black solid;
+  padding-bottom: 4em;;
+  padding-left: 2px;
+  padding-right: 2px;
+  margin-top: 60px;
+  font-size: 2.5vm;
+  height:5em;
+  position: relative;
+  border-radius: 0.5em;
+  background-color: #fcc7c7;
+}
+.container:hover{
+  background-image: url("https://www.whyalla.sa.gov.au/__data/assets/image/0025/560833/varieties/banner.jpg");
+  color: #f5ebeb;
+  background-repeat: no-repeat;
+}
+h4{
+   margin-top: 0.8em;;
+}
+
+.img1{
+  margin-top: 400px;
+  height:1250%;
+  width:20%;
+  margin-bottom: 0.5em;
+  margin-left: 1em;
+  margin-right: 0.5em;
+  border-style: solid ;
+  border-width: thick;
+  border-color: white;
+}
+.img1:hover{
+  border-radius: 0.5em;
+  border-width: medium;
+  border-color: #232324;
+}
+
+.img2{
+  height:1250%;
+  width:20%;
+  margin-bottom: 0.5em;
+  margin-left: 1em;
+  margin-right: 0.5em;
+  border-style: solid ;
+  border-width: thick;
+  border-color: white;
+}
+.img2:hover{
+  border-radius: 0.5em;
+  border-width: medium;
+  border-color: #232324;
+}
+
+.img3{
+  height:1250%;
+  width:20%;
+  margin-bottom: 0.5em;
+  margin-left: 1em;
+  margin-right: 0.5em;
+  border-style: solid ;
+  border-width: thick;
+  border-color: white;
+}
+.img3:hover{
+  border-radius: 0.5em;
+  border-width: medium;
+  border-color: #232324;
+}
+
+.img4{
+  height:1250%;
+  width:20%;
+  margin-bottom: 0.5em;
+  margin-left: 1em;
+  margin-right: 0.5em;
+  border-style: solid ;
+  border-width: thick;
+  border-color: white;
+}
+.img4:hover{
+  border-radius: 0.5em;
+  border-width: medium;
+  border-color: #232324;
+}
+
+body{
+background-color: #eee6f5;
+}
+
+a{
+  color: #0f0f0f;
+  text-decoration: none;
+}
+a:hover{
+  color:blue;
+}
